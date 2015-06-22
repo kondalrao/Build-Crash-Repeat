@@ -1,0 +1,8 @@
+
+output/
+cache/
+\.srclib-cache/
+\.srclib-gopath/
+\.srclib-store/
+
+*.py[cod]
